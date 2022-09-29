@@ -1,1 +1,1 @@
-# miniblog
+# miniblog site Django
